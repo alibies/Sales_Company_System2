@@ -1,0 +1,42 @@
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.AssemblyReference.cache
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.SuggestedBindingRedirects.cache
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.FormCasher.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formAdmin.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formLogin.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPayment.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPOS.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formQuantity.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formReceipt.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formSales.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.Resources.resources
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.GenerateResource.cache
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.CoreCompileInputs.cache
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.exe.config
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.exe
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.xml
+G:\Newpost POS and Inventory System v2.0\Sales Company System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.pdb
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.exe
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.pdb
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.xml
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.AssemblyReference.cache
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.SuggestedBindingRedirects.cache
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.FormCasher.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formAdmin.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formLogin.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPayment.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPOS.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formQuantity.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formReceipt.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formSales.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.Resources.resources
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.GenerateResource.cache
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company  System v2.0.vbproj.CoreCompileInputs.cache
+G:\Software Engineering project\Sales Company System v2.0.exe.config
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company System v2.0.exe
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company System v2.0.xml
+G:\Software Engineering project\Sales Company System v2.0\obj\Debug\Sales Company System v2.0.pdb
+G:\Software Engineering project\Sales Company System v2.0.exe
+G:\Software Engineering project\Sales Company System v2.0.pdb
+G:\Software Engineering project\Sales Company System v2.0.xml
+G:\Software Engineering project\Ali+hayder+hamza.mdf
+G:\Software Engineering project\Ali+hayder+hamza_log.ldf

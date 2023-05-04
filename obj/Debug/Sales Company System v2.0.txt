@@ -1,0 +1,53 @@
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.exe.config
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.exe
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.pdb
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.xml
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.Resources.resources
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbproj.GenerateResource.Cache
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.exe
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.xml
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.pdb
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formAdmin.resources
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formLogin.resources
+C:\Users\Computer\AppData\Local\Temporary Projects\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPOS.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.exe.config
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.exe
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.exe
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.pdb
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.xml
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formAdmin.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formLogin.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPOS.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.Resources.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbproj.GenerateResource.Cache
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPayment.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formQuantity.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formReceipt.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formSales.resources
+C:\Users\Computer\Documents\Visual Studio 2013\Projects\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbprojResolveAssemblyReference.cache
+C:\Users\Computer\Downloads\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\bin\Debug\Newpost POS and Inventory System v2.0.exe.config
+C:\Users\Computer\Downloads\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.exe
+C:\Users\Computer\Downloads\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.xml
+C:\Users\Computer\Downloads\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.pdb
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbproj.AssemblyReference.cache
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbproj.SuggestedBindingRedirects.cache
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formAdmin.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formLogin.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPayment.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formPOS.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formQuantity.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formReceipt.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.formSales.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.Resources.resources
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbproj.GenerateResource.cache
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.vbproj.CoreCompileInputs.cache
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.exe
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.xml
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost POS and Inventory System v2.0.pdb
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.exe.config
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.exe
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.pdb
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0.xml
+G:\Newpost POS and Inventory System v2.0\Newpost POS and Inventory System v2.0\obj\Debug\Newpost_POS_and_Inventory_System_v2._0.FormCasher.resources
